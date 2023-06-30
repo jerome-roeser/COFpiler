@@ -6,10 +6,9 @@ Build the statistical structure for layered materials by stacking layers followi
 
 ```
 python COFpiler.py [-h] [--path PATH] [--data DATA] [--i I] [--o O] [--T T] [--s S] [--mirror MIRROR] [--mplane MPLANE] [--L L] [--M M]
-```
 
-```
-python COFpiler.py --path C:\temp\git_repos\COFpiler\data\ --data data_example.xlsx --instr COF-1.cif --L 20 --M 10
+example:
+python COFpiler.py --path C:/temp/git_repos/COFpiler/data/ --data data_example.xlsx --instr COF-1.cif --L 20 --M 10
 ```
 
 ## Optional arguments: 
